@@ -1,0 +1,11 @@
+this is my first file in git
+would like to practise some commands
+abc
+def
+ghi
+jkl
+mmn
+pqr
+stu
+vwx
+yz
