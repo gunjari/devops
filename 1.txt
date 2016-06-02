@@ -1,0 +1,12 @@
+thisis my first file
+wanna do something related to commands
+car
+vi
+scm
+characters
+devops
+kits
+jre
+jdk
+jvm
+
