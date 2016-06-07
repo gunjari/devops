@@ -1,0 +1,6 @@
+this is my second file
+would like to execute log commands with commit ids
+just save this file
+commit it
+
+

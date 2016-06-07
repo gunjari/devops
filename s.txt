@@ -1,0 +1,5 @@
+this is a second repository
+scripting
+commit and push yet to be done
+some text
+fghh
